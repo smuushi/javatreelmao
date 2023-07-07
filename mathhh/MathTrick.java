@@ -10,7 +10,7 @@ public class MathTrick {
     int stepTwo;
     stepTwo = stepOne + myNumber;
 
-		int stepThree; 
+	int stepThree; 
     stepThree = stepTwo / myNumber;
 
     int stepFour;
