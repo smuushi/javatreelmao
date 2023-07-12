@@ -3,6 +3,9 @@ import java.util.List;
 import java.util.Arrays;
 
 public class Permutations {
+
+    // given a word, print out the next greatest alphabetical permutation. 
+
     public static void main(String[] args) {
         String word = args[0];
         String[] permutations = generatePermutations(word);
